@@ -3,3 +3,4 @@ test.txt
 *.zip
 .idea
 *.so
+*.DS_Store
